@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+character {
+	display: block;
+}
+
+character div {
+	position: absolute;
+}
+
+.head1 {
+	background-image: url('head1.png');
+	width: 337px;
+	height: 324px;
+	margin-top: 38px;
+	margin-left: 130px;
+}
+
+.head2 {
+	background-image: url('head2.png');
+	width: 318px;
+	height: 315px;
+	margin-top: 50px;
+	margin-left: 118px;
+}
+
+.legs1 {
+	background-image: url('legs1.png');
+	width: 481px;
+	height: 431px;
+	margin-top: 123px;
+	margin-left: 791px;
+}
+
+.legs2 {
+	background-image: url('legs2.png');
+	width: 489px;
+	height: 433px;
+	margin-top: 121px;
+	margin-left: 791px;
+}
+
+.base {
+	background-image: url('base.png');
+	width: 828px;
+	height: 273px;
+	margin-top: 300px;
+}
